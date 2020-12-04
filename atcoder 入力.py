@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Sun Mar 22 20:45:22 2020
-
+ｆｄｆｄ
 @author: rnona
 """
 #入力が文字列の時
